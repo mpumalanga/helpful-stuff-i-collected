@@ -1,0 +1,2 @@
+# recursively cd into the biggest found directory to find the bad boys
+du -hsx * | sort -rh | head -10^C
