@@ -1,0 +1,2 @@
+# opened file without write permission and want to save buffer anyway:
+:w !sudo tee %
